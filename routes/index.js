@@ -1,10 +1,10 @@
-const router = require('express').Router();
-const apiRputes = require('./api');
+const router = require("express").Router();
+const apiRoutes = require("./api");
 
-router.use('/api', apiRputes);
+router.use("/api", apiRoutes);
 
 router.use((req, res) => {
-    res.status(400).send('Error has occurred!');
+  res.status(404).send('Error occurred');
 });
 
 module.exports = router;
