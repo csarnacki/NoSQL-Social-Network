@@ -1,3 +1,5 @@
+# NoSQL Social Network API
+
 This repository utilizes API routes in a NoSQL environment to create a social networking project that displays user data and any associated 
 friends, thoughts or reactions they may have.
 Using Insomnia, this data can all be viewed by accessing the according API routes as they are defined. The repository takes advantage of Express.js 
