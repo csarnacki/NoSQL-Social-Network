@@ -9,3 +9,5 @@ Data in Insomnia can follow the CRUD principle where data can be created, read, 
 Node.js is also used to create the routes, models and connect to the server.
 
 A link to the video that starts up the server can be accessed here. https://drive.google.com/file/d/1wDNaLLnJnbHkRVhmZCbsl3W716Tj2ngf/view
+
+A link to Insomnia that shows user routes and thoughts routes can be found here https://drive.google.com/file/d/13aMmWngcqjxo5n5ufIWh2pKBi_NmtidI/view
